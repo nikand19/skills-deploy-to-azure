@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace nikand19 with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: nikand19-azure-ttt
-  AZURE_WEBAPP_NAME: nikand19-ttt-app
+  DOCKER_IMAGE_NAME: <nikand19>-azure-ttt
+  AZURE_WEBAPP_NAME: <nikand19>-ttt-app
   ###############################################
 
 jobs:
